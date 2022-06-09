@@ -1,0 +1,21 @@
+{
+  "name": "ddd333",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "ts-node --esm   test",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maurice de Beijer",
+  "license": "ISC",
+  "dependencies": {
+    "@types/d3": "^7.4.0",
+    "d3": "^7.4.4",
+    "reflect-metadata": "^0.1.13",
+    "ts-node": "^10.8.1",
+    "ts-node-dev": "^2.0.0"
+  }
+}
